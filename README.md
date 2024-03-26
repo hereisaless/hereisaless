@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently studying software engineer
-- 🌱 I’m currently learning Java
+- 🌱 I’m learning Java
 - 😄 Pronouns: she/her
 
